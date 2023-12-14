@@ -154,17 +154,17 @@ p {
     font-size: 30px;
 }
 
-.btn-primary {
+.btn-success {
     background-color: #7caca0b7;
     border-color: #7caca09d;
 }
 
-.btn-primary:hover {
+.btn-success:hover {
     background-color: #5d7972e3;
     border-color: #5d7972e3;
 }
 
-.btn-primary:focus, .btn-primary:active {
+.btn-success:focus, .btn-primary:active {
     color:  rgba(135, 187, 165, 0.856) !important;
 }
 
