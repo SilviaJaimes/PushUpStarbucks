@@ -4,12 +4,12 @@ This repository ☕ contains the source code and styles for the Starbucks Colomb
 
 ## 📜 Contents
 
-- [Introduction](#introduction)
-- [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [Responsiveness](#responsiveness)
-- [Styles](#styles)
-- [External Dependencies](#external-dependencies)
+- [Introduction](##introduction)
+- [Technologies Used](##technologies-used)
+- [File Structure](##file-structure)
+- [Responsiveness](##responsiveness)
+- [Styles](##styles)
+- [External Dependencies](##external-dependencies)
 
 ## 🌐 Introduction
 
