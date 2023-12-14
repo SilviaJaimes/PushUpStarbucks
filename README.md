@@ -10,8 +10,6 @@ This repository ☕ contains the source code and styles for the Starbucks Colomb
 - [Responsiveness](#responsiveness)
 - [Styles](#styles)
 - [External Dependencies](#external-dependencies)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🌐 Introduction
 
